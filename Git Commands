@@ -17,10 +17,10 @@ Hello world
 
 save the file
 
-The file becomes U : Un-commited
+The file becomes U : Unstashed/Uncommitted
 
 Now go to terminal:
- git add abc.txt
+git add abc.txt
 
 The file became : A (added in branch)
 
