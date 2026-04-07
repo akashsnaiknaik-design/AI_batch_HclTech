@@ -133,7 +133,15 @@ To find the commit hashes:
 git log --oneline --graph --all
 
 
+Move to main branch
+git checkout main
 
+Merge the branches: In Parent branch we can merge child branches
+git merge feature-design
+If conflict occurs: 
+First resolve it in VS code
+Then Merge again:
+git merge feature-design
 
 
 
